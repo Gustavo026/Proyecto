@@ -10,6 +10,8 @@ theme:
 extra_css:
     - css/page.css
 nav:
+    - Entrevistas Iniciales: 
+        - Entrevista 1: Entrevista0.md
     - Problema: todo.md
     - Requerimientos:
         - Requerimiento 1: todo.md
