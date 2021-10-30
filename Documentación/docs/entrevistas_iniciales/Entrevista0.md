@@ -1,9 +1,6 @@
-# Entrevista 1
+# Entrevista 1: "Consiguiendo problemas"
 
-### Realizada: 26/10/2021
-
-### Consiguiendo problemas. 
-
+### Realizada el: 26/10/2021          
 
 Administrador de Proyecto (A.P.): Buen día, muchas gracias por dar un momento de su día para esta entrevista.
 
